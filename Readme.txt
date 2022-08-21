@@ -7,5 +7,3 @@ HTML5;
 CSS3;
 Grid;
 Flex/
-
-https://github.com/indaver17/russian-travel.git
