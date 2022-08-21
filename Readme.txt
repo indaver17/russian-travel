@@ -1,4 +1,5 @@
 Проект студента Яндекс Практикум "Путешествия по России"
+https://indaver17.github.io/russian-travel/
 автор: Ильнар Д.
 
 
@@ -6,4 +7,4 @@
 HTML5;
 CSS3;
 Grid;
-Flex/
+Flex.
