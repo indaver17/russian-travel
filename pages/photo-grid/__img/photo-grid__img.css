@@ -1,0 +1,5 @@
+.photo-grid__img {
+    max-width: 352px;
+    min-width: 288px;
+    width: 100%;
+}

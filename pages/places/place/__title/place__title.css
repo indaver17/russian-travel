@@ -1,0 +1,25 @@
+.place__title {
+    margin: 0;
+    display: flex;
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 900;
+    color: #FFFFFF;
+    font-size: 72px;
+}
+@media screen and (max-width: 1025px) {
+    .place__title {
+      max-width: 440px;
+  }
+  }
+  @media screen and (max-width: 769px) {
+    .place__title {
+      max-width: 340px;
+      font-size: 35px;
+  }
+  }
+  @media screen and (max-width: 655px) {
+    .place__title {
+     max-width: 288px;
+     font-size: 35px;
+  }
+  }
