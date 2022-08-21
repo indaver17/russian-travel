@@ -8,4 +8,4 @@ CSS3;
 Grid;
 Flex/
 
-https://github.com/indaver17/russian-travel.git
+https://indaver17.github.io/russian-travel/
