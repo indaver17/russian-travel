@@ -3,3 +3,9 @@
     max-width: 460px;
     width: 100%;
 }
+@media screen and (max-width: 321px) {
+    .place__pic {
+      max-width: 320px;
+      width: 100%;
+  }
+  }

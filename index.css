@@ -1,5 +1,5 @@
 @import url(./vendor/normalize.css);
-@import url(/fonts/inter.css);
+@import url(./vendor/fonts/inter.css);
 @import url(./pages/page/page.css);
     @import url(./pages/page/__container/page__container.css);
 @import url(./pages/header/header.css);
@@ -10,8 +10,8 @@
     @import url(./pages/lead/__title/lead__title.css);
     @import url(./pages/lead/__subtitle/lead__subtitle.css);
     @import url(./pages/lead/__image/lead__image.css);
+    @import url(./pages/lead/__caption-text/lead__caption-text.css);
     @import url(./pages/lead/__caption/lead__caption.css);
-    @import url(./pages/lead/__basement/lead__basement.css);
 @import url(./pages/intro/intro.css);
     @import url(./pages/intro/__title/intro__title.css);
     @import url(./pages/intro/__text/intro__text.css);

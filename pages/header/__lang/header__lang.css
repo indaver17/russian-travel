@@ -1,17 +1,5 @@
 .header__lang {
     text-decoration: none;
-    padding-right: 48px;
-    align-self: end;
+    align-self: center;
+    justify-self: center;
   }
-
-  @media screen and (max-width: 769px) {
-    .header__lang {
-        padding-right: 24px; 
-    }
-   }
-
-   @media screen and (max-width: 321px) {
-    .header__lang {
-        padding-right: 19px; 
-    }
-   }

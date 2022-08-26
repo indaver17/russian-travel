@@ -9,6 +9,7 @@
     text-align: center;
     color: #FFFFFF;
     text-decoration: none;
+    white-space: pre-line;
   }
 
 @media screen and (max-width: 539px) {
