@@ -3,16 +3,16 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-  align-items: center;
+    align-items: center;
     background-image: url(../../../images/cover-trains.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    box-sizing: border-box;
     position: relative;
     min-height: 740px;
     z-index: 0;
     text-decoration: none;
+    box-sizing: border-box;
   }
   
   .cover__overlay::before {
@@ -35,18 +35,17 @@
 @media screen and (max-width: 1025px) {
   .cover__overlay {
     min-height: 640px;
-}
+  }
 }
 
 @media screen and (max-width: 769px) {
   .cover__overlay {
     min-height: 480px;
+  }
 }
-}
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 608px) {
   .cover__overlay {
     min-height: 200px;
-    max-width: 320px;
     width: 100%;
-}
+  }
 }

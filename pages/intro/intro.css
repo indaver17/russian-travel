@@ -1,11 +1,10 @@
 .intro {
-    margin: 0;
+    margin: 92px 0 0 148px;
     align-self: flex-start;
     max-width: 690px;
     width: 100%;
     color: #FFFFFF;
-    margin-left: 148px;
-    margin-top: 92px;
+    box-sizing: border-box;
   }
 @media screen and (max-width: 1025px) {
   .intro {
@@ -21,7 +20,7 @@
 }
 @media screen and (max-width: 345px) {
 .intro {
-    margin: 0 auto;
+  margin: 0;
     max-width: 288px;
     margin-top: 64px;
 }

@@ -9,6 +9,7 @@
     margin: 0 auto;
     font-size: 32px;
     margin-top: 34px;
-    max-width: 288px;
+    padding-left: 16px;
+    box-sizing: border-box;
   }
   }
