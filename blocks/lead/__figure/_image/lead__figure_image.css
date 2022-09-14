@@ -1,0 +1,7 @@
+.lead__figure_image {
+    margin: 0;
+    max-width: 984px;
+    min-width: 320px;
+    width: 100%;
+    box-sizing: border-box;
+}

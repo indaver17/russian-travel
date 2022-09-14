@@ -1,0 +1,7 @@
+.lead {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #FFFFFF;
+    box-sizing: border-box;
+   }
