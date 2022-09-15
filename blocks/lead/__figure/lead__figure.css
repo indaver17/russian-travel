@@ -4,3 +4,8 @@
   align-content: center;
 }
 
+@media screen and (max-width: 340px) {
+    .lead__figure {
+        margin-top: 40px;
+  }
+  }

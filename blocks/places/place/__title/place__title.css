@@ -5,7 +5,10 @@
     color: #FFFFFF;
     font-size: 72px;
     max-width: 460px;
-    white-space: pre-line;
+    margin-top: 32px;
+}
+.place__title:first-child {
+    margin-top: 0;
 }
 
 @media screen and (max-width: 1025px) {
@@ -20,6 +23,7 @@
       max-width: 340px;
       font-size: 42px;
       line-height: 46px;
+      margin-top: 25px;
   }
   }
   @media screen and (max-width: 655px) {
@@ -28,5 +32,6 @@
       font-size: 32px;
       padding-left: 16px;
       box-sizing: border-box;
+      margin-top: 2px;
   }
   }
