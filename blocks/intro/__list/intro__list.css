@@ -6,7 +6,6 @@
 
 @media screen and (max-width: 321px) {
   .intro__list {
-    font-size: 32px;
     margin-top: 34px;
     box-sizing: border-box;
   }

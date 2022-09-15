@@ -39,6 +39,3 @@
     @import url(../blocks/footer/__links/footer__links.css);
     @import url(../blocks/footer/__links-item/footer__links-item.css);
     @import url(../blocks/footer/__author/footer__author.css);
-    * {
-        outline: solid 1px red;
-    }

@@ -1,5 +1,5 @@
 .place__text {
-    margin: 0;
+    margin: 0 auto;
     max-width: 484px;
     width: 100%;
 }
@@ -17,10 +17,10 @@
   }
   }
 
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 340px) {
     .place__text {
         max-width: 288px;
-        padding-left: 16px;
         box-sizing: border-box;
+        padding-left: 16px;
   }
   }
