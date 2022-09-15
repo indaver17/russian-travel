@@ -1,4 +1,4 @@
-.lead__figure_caption {
+.lead__figure-caption {
     margin: 8px 0 0;
     font-family: "Inter", Arial, sans-serif;
     font-size: 10px;
@@ -12,17 +12,17 @@
 }
 
 @media screen and (max-width: 1025px) {
-    .lead__figure_caption {
+    .lead__figure-caption {
         padding-left: 48px;
         }
 }
 @media screen and (max-width: 769px) {
-    .lead__figure_caption {
+    .lead__figure-caption {
         padding-left: 24px;
     }
 }
 @media screen and (max-width: 321px) {
-    .lead__figure_caption {
+    .lead__figure-caption {
         padding-left: 16px;
     }
 }
