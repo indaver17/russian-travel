@@ -1,6 +1,6 @@
 .intro__text {
-    font-family: "Inter", Arial, sans-serif;
-    margin: 0 auto;
+    font-family: 'Inter', Arial, sans-serif;
+    margin: 0;
     max-width: 690px;
     font-size: 16px;
     font-weight: 400;
@@ -9,10 +9,5 @@
     text-align: left;
     color: #FFFFFF;
     margin-top: 40px;
-  }
-
-@media screen and (max-width: 321px) {
-  .intro__text {
     box-sizing: border-box;
-  }
   }

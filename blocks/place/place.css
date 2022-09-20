@@ -5,8 +5,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
-    
+    margin-top: 80px;
+}
+
+.place:first-child {
+    margin-top: 0;
+}
+
   @media screen and (max-width: 1025px) {
     .place {
       grid-template-columns: 440px 1fr;
@@ -18,14 +23,15 @@
     .place {
       grid-template-columns: 340px 1fr;
       gap: 48px 28px;
+      margin-top: 73px;
     }
   }
 
   @media screen and (max-width: 680px) {
     .place {
       grid-template-columns: 1fr;
-      gap: 32px;
-      height: max-content;
+      row-gap: 32px;
+      margin-top: 50px;
     }
   }
 
