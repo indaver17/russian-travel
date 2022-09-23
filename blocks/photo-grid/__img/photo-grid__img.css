@@ -1,5 +1,22 @@
 .photo-grid__img {
-    max-width: 352px;
+    max-width: 284px;
     width: 100%;
     box-sizing: border-box;
+    object-fit: contain;
+
 }
+@media screen and (max-width: 1025px) {
+    .photo-grid__img {
+       max-width: 300px; 
+    }
+   }
+@media screen and (max-width: 769px) {
+ .photo-grid__img {
+        max-width: 352px;
+        }
+}
+@media screen and (max-width: 400px) {
+    .photo-grid__img {
+        max-width: 320px;
+   }
+   }

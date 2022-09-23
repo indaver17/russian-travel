@@ -2,23 +2,24 @@
     margin: 0 auto;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(284px, max-content));
-    gap: 16px;
-    list-style-type: none;
+    grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
+    gap: 12.4px;
+    list-style: none;
+    box-sizing: border-box;
 }
 
 @media screen and (max-width: 1025px) {
     .photo-grid__attachment {
-        gap: 14px;
+        gap: 10.4px;
     }
    }
 @media screen and (max-width: 769px) {
  .photo-grid__attachment {
-        gap: 16px;
-        }
+        gap: 12.4px;
+    }
 }
 @media screen and (max-width: 400px) {
     .photo-grid__attachment {
-        gap: 12px;
-   }
-   }
+        gap: 8.4px;
+    }
+}
